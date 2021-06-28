@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project-private xmlns="http://www.netbeans.org/ns/project-private/1">
+    <editor-bookmarks xmlns="http://www.netbeans.org/ns/editor-bookmarks/2" lastBookmarkId="0"/>
+    <open-files xmlns="http://www.netbeans.org/ns/projectui-open-files/2">
+        <group>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/view/Registravenda.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/model/Carro.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/view/Valortotal.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/main/Main.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/controller/ControllerValoresTotais.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/view/JanelaInicial.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/dao/Conexao.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/view/Cadastracarro.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/controller/ControllerVerificaCarros.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/dao/CarroDAO.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/view/Listaveiculos.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/controller/ControllerCadastro.java</file>
+            <file>file:/D:/Java/PROVA/Loja_Carro/src/controller/ControllerRegistra.java</file>
+        </group>
+    </open-files>
+</project-private>
